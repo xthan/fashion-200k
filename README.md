@@ -26,7 +26,7 @@ Note that there is information of more than 300k images in image_urls.txt and de
 
 
 ### Code
-You can refer to Tensorflow's [im2txt] (https://github.com/tensorflow/models/blob/master/research/im2txt) for how to train the model. By setting f_rnn_loss_factor and g_rnn_loss_factor to 0 in the model configuration in this [repo](https://github.com/xthan/polyvore) can also train a visual-semantic embedding for the same purpose.
+You can refer to Tensorflow's [im2txt](https://github.com/tensorflow/models/blob/master/research/im2txt) for how to train the model. By setting f_rnn_loss_factor and g_rnn_loss_factor to 0 in the model configuration in this [repo](https://github.com/xthan/polyvore) can also train a visual-semantic embedding for the same purpose.
 
 You can look at the original [CAM code](https://github.com/metalbubble/CAM/blob/master/pytorch_CAM.py#L41) to figure out how to extract activation maps in a joint embedding setting.
 
