@@ -12,7 +12,7 @@ Contact: xintong@umd.edu
 
 This dataset is crawled from [Lyst.com](http://lyst.com) in September 2016. 
 
-You can download the dataset via [Google Drive](https://drive.google.com/open?id=0B4Eo9mft9jwoamlYWFZBSHFzV3c):
+You can download the dataset via [Google Drive](hhttps://drive.google.com/drive/folders/0B4Eo9mft9jwoamlYWFZBSHFzV3c?resourcekey=0-2s7M82p8Bn7riqxWVlgctw):
 
 image_urls.txt: Image urls. Format: ImageName ImageURL.
 
